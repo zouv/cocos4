@@ -21,7 +21,6 @@ scripts/build-engine/dist
 scripts/native-pack-tool/dist
 scripts/runtime-web-adapter
 scripts/typedoc-plugin/lib/
-native/external/
 editor/library/
 
 !templates/**/*
